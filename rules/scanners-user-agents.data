@@ -1,119 +1,622 @@
-# This file lists what we think the most widely used
-# security scanners identifyable via their user agents.
-#
-# The list is curated by hand. Attempts to machine-generate
-# a larger list leads to a lot of false positives and edge
-# cases where certain scanners / bots are welcome in certain
-# situations. We consider this a baseline of unwanted scanners.
-
-
-# http://www.arachni-scanner.com/
+360Spider
+404checker
+404enemy
+80legs
+Abonti
+Aboundex
+Aboundexbot
+Acunetix
+ADmantX
+AfD-Verbotsverfahren
+AIBOT
+AiHitBot
+Aipbot
+Alexibot
+Alligator
+AllSubmitter
+AlphaBot
+Anarchie
+Ankit
+Anthill
+Apexoo
 arachni
-
+arquivo.pt
+arquivo-web-crawler
+Aspiegel
+ASPSeek
+Asterias
+Attach
+autoemailspider
+AwarioRssBot
+AwarioSmartBot
+BackDoorBot
+Backlink-Ceck
+backlink-check
+BacklinkCrawler
+BackStreet
+BackWeb
+Badass
+Bandit
+Barkrowler
+BatchFTP
+Battleztar Bazinga
+BBBike
+BDCbot
+BDFetch
 betabot
-
+BetaBot
 bewica-security-scan
-
-# Backup File Artifacts Checker
-# https://github.com/mazen160/bfac
 BFAC
-
-# Commix
-# https://github.com/commixproject/commix
+Bigfoot
+Bitacle
+Blackboard
+Black Hole
+BlackWidow
+BLEXBot
+Blow
+BlowFish
+Boardreader
+Bolt
+BotALot
+Brandprotect
+Brandwatch
+Buck
+Buddy
+BuiltBotTough
+BuiltWith
+Bullseye
+BunnySlippers
+BuzzSumo
+Calculon
+CATExplorador
+CazoodleBot
+CCBot
+Cegbfeieh
+CensysInspect
+check1.exe
+CheeseBot
+CherryPicker
+CheTeam
+ChinaClaw
+Chlooe
+Claritybot
+Cliqzbot
+Cloud mapping
+coccocbot-web
+Cocolyzebot
+CODE87
+Cogentbot
+cognitiveseo
+Collector
+colly
 commix
-
-# Detectify website vulnerability scanner
-# https://detectify.com/
+com.plumanalytics
+Copier
+CopyRightCheck
+Copyscape
+Cosmos
+Craftbot
+crawler4j
+crawler.feedback
+crawl.sogou.com
+CrazyWebCrawler
+Crescent
+CrunchBot
+CSHttp
+Curious
+Custo
+CyotekWebCopy
+DatabaseDriverMysqli
+DataCha0s
+DBLBot
+demandbase-bot
+Demon
 Detectify
-
-# hidden page scanner
-# (deprecated) https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+Deusu
+Devil
+Digincore
+DigitalPebble
+DIIbot
 dirbuster
-
+Dirbuster
+Disco
+Discobot
+Discoverybot
+Dispatch
+DittoSpyder
+DnyzBot
+DomainAppender
+DomainCrawler
+DomainSigmaCrawler
+Domains Project
+domainsproject.org
+DomainStatsBot
+Dotbot
+Download Wonder
+Dragonfly
+Drip
+DSearch
+DTS Agent
+EasyDL
+Ebingbong
+eCatch
+ECCP/1.0
+Ecxi
+EirGrabber
+EMail Siphon
+EMail Wolf
+EroCrawler
+evc-batch
+Evil
+Exabot
+Express WebPictures
+ExtLinksBot
+Extractor
+ExtractorPro
+Extreme Picture Finder
+EyeNetIE
+Ezooms
+facebookscraper
+FDM
+FemtosearchBot
+FHscan
 fimap
-
-# vuln scanner
-# https://github.com/ffuf/ffuf
+Fimap
+Firefox/7.0
+FlashGet
+Flunky
+Foobot
+Freeuploader
+FrontPage
 fuzz faster
-
-# Scanner that looks for existing or hidden web objects
-# https://github.com/OJ/gobuster
+FyberSpider
+Fyrebot
+GalaxyBot
+Genieo
+GermCrawler
+Getintent
+GetRight
+GetWeb
+Gigablast
+G-i-g-a-b-o-t
+Gigabot
+Go-Ahead-Got-It
 gobuster
-
-# sql injection
+Gotit
+Go!Zilla
+GoZilla
+Grabber
+GrabNet
+Grafula
+GrapeFX
+GridBot
+GT::WWW
+Haansoft
+HaosouSpider
+Harvest
 havij
-
+Havij
+HEADMasterSEO
+heritrix
+Heritrix
 hexometer
-
+Hloader
+HMView
+HTMLparser
+HTTP::Lite
+HTTrack
+Humanlinks
+HybridBot
+Iblog
+IDBot
+IDBTE4M
+Id-search
+IlseBot
+Image Fetch
+Image Sucker
+IndeedBot
+Indy Library
+InfoNaviRobot
+InfoTekies
+instabid
+Intelliseek
+InterGET
+Internet Ninja
+InternetSeer
+internetVista monitor
+ips-agent
+Iria
+IRLbot
+isitwp.com
+Iskanie
+IstellaBot
+JamesBOT
 jbrofuzz
-
+Jbrofuzz
+JennyBot
+JetCar
+Jetty
+JikeSpider
+JOC Web Spider
+Joomla
 jorgee
-
+Jorgee
+JustView
+Jyxobot
+Kenjin Spider
+Keyword Density
+Kinza
+Kozmosbot
+Lanshanbot
+Larbin
+LeechFTP
+LeechGet
+LexiBot
+Lftp
+LibWeb
 libwhisker
-
-# port scanner
-# https://github.com/robertdavidgraham/masscan
+Libwhisker
+LieBaoFast
+Lightspeedsystems
+Likse
+Linkbot
+Linkdexbot
+LinkextractorPro
+LinkpadBot
+LinkScan
+LinksManager
+LinkWalker
+LinqiaMetadataDownloaderBot
+LinqiaRSSBot
+LinqiaScrapeBot
+Lipperhey
+Lipperhey Spider
+Litemage_walker
+Lmspider
+LNSpiderguy
+Ltx71
+lwp-request
+LWP::Simple
+lwp-trivial
+Magnet
+Mag-Net
+magpie-crawler
+Majestic12
+Majestic SEO
+Majestic-SEO
+MarkMonitor
+MarkWatch
 masscan
-
+Masscan
+Mass Downloader
+Mata Hari
+MauiBot
+Mb2345Browser
+meanpathbot
+Meanpathbot
+MeanPath Bot
+Mediatoolkitbot
+mediawords
+MegaIndex.ru
+Metauri
+MFC_Tear_Sample
+Microsoft Data Access
+Microsoft URL Control
+MIDown tool
+MIIxpc
+Mister PiX
+MJ12bot
+Mojeek
+Mojolicious
 morfeus
-
-# The Mysterious Mozlila User Agent bot
-# https://trunc.org/learning/the-mozlila-user-agent-bot
+Morfeus Fucking Scanner
 Mozlila
-
-# Nessus
-# http://www.tenable.com/products/nessus-vulnerability-scanner
+MQQBrowser
+Mr.4x3
+MSFrontPage
+MSIECrawler
+Msrabot
+muhstik-scan
+Musobot
+Name Intelligence
+Nameprotect
+Navroad
+NearSite
+Needle
 nessus
-
+Nessus
+NetAnts
+Netcraft
+netEstate NE Crawler
 netlab360
-
+NetLyzer
+NetMechanic
 netsparker
-
-# vuln scanner
-# https://cirt.net/Nikto2
+NetSpider
+Nettrack
+Net Vampire
+Netvibes
+NetZIP
+NextGenSearchBot
+Nibbler
+NICErsPRO
+Niki-bot
 nikto
-
+Nikto
+NimbleCrawler
+Nimbostratus
+Ninja
 nmap
-
-# https://github.com/projectdiscovery/nuclei
+Nmap
+NPbot
 nuclei
-
-# http://www.openvas.org/
+Nuclei
+Nutch
+oBot
+Octopus
+Offline Explorer
+Offline Navigator
+OnCrawl
+Openfind
+OpenLinkProfiler
 openvas
-
+Openvas
+OpenVAS
+OPPO A33
+OrangeBot
+OrangeSpider
+OutclicksBot
+OutfoxBot
+Page Analyzer
+PageAnalyzer
+PageGrabber
+page scorer
+PageScorer
+Pandalytics
+Panscient
+Papa Foto
+Pavuk
+pcBrowser
+PECL::HTTP
+PeoplePal
+Petalbot
+PHPCrawl
+Picscout
+Picsearch
+PictureFinder
+Pimonster
+Pi-Monster
+Pixray
+PleaseCrawl
+plumanalytics
+Pockey
+POE-Component-Client-HTTP
+polaris version
+Probethenet
+ProPowerBot
+ProWebWalker
+Psbot
+Pump
+PxBroker
+PyCurl
+QueryN Metasearch
+Quick-Crawler
+RankActive
+RankActiveLinkBot
+RankFlex
+RankingBot
+RankingBot2
+Rankivabot
+RankurBot
+RealDownload
+Reaper
+RebelMouse
+Recorder
+RedesScrapy
+ReGet
+RepoMonkey
+Ripper
+RocketCrawler
+Rogerbot
+RSSingBot
+s1z.ru
+SalesIntelligent
+satoristudio.net
+SBIder
+ScanAlert
+Scanbot
+scan.lol
+ScoutJet
+Scrapy
+Screaming
+ScreenerBot
+Searchestate
+SearchmetricsBot
+SentiBot
+SEOkicks
+SEOkicks-Robot
+SEOlyticsCrawler
+Seomoz
+SEOprofiler
+seoscanners
+SeoSiteCheckup
+SEOstats
+serpstatbot
+sexsearcher
+Shodan
+Siphon
+SISTRIX
+Sitebeam
+SiteCheckerBotCrawler
+sitechecker.pro
+SiteExplorer
+Siteimprove
 sitelockspider
-
-# SQL Injections
-# http://sqlmap.org/
+SiteLockSpider
+SiteSnagger
+Site Sucker
+SiteSucker
+Sitevigil
+SlySearch
+SmartDownload
+SMTBot
+Snake
+Snapbot
+Snoopy
+SocialRankIOBot
+Sociscraper
+sogouspider
+Sogou web spider
+Sosospider
+Sottopop
+SpaceBison
+Spammen
+SpankBot
+Spanner
+sp_auditbot
+Spbot
+Spinn3r
+SputnikBot
+spyfu
 sqlmap
-
-# https://www.cyber.nj.gov/threat-profiles/trojan-variants/sysscan
+Sqlmap
+Sqlworm
+Sqworm
+Steeler
+Stripper
+Sucker
+Sucuri
+SuperBot
+SuperHTTP
+Surfbot
+SurveyBot
+Suzuran
+Swiftbot
 sysscan
-
-# https://github.com/google/tsunami-security-scanner
+Szukacz
+T0PHackTeam
+T8Abot
+tAkeOut
+Teleport
+TeleportPro
+Telesoft
+Telesphoreo
+Telesphorep
+The Intraformant
+TheNomad
+Thumbor
+TightTwatBot
+Titan
+Toata
+Toweyabot
+Tracemyfile
+Trendiction
+Trendictionbot
+trendiction.com
+trendiction.de
+True_Robot
 TsunamiSecurityScanner
-
+Turingos
+Turnitin
+TurnitinBot
+TwengaBot
+Twice
+Typhoeus
+UnisterBot
+Upflow
+URLy Warning
+URLy.Warning
+Vacuum
+Vagabondo
+VB Project
+VCI
+VelenPublicWebCrawler
+VeriCiteCrawler
+VidibleScraper
+Virusdie
+VoidEYE
+Voil
+Voltron
 w3af.org
-
-# http://www.robotstxt.org/db/webbandit.html
+Wallpapers/3.0
+WallpapersHD
+WASALive-Bot
+WBSearchBot
+Webalta
+Web Auto
+WebAuto
 webbandit
-
-# (deprecated) http://www.scrt.ch/en/attack/downloads/webshag
+WebBandit
+Web Collage
+WebCollage
+WebCopier
+WEBDAV
+Web Enhancer
+WebEnhancer
+Web Fetch
+WebFetch
+Web Fuck
+WebFuck
+WebGo IS
+WebImageCollector
+WebLeacher
+WebmasterWorldForumBot
+webmeup-crawler
+Web Pix
+WebPix
+WebReaper
+Web Sauger
+WebSauger
 webshag
-
-# https://github.com/xmendez/wfuzz
+Webshag
+WebsiteExtractor
+Website Quester
+WebsiteQuester
+Webster
+WebStripper
+Web Sucker
+WebSucker
+WebWhacker
+WebZIP
+WeSEE
 wfuzz
-
+Whack
+Whacker
 whatweb
-
+Whatweb
+Who.is Bot
+Widow
+WinHTTrack
+WiseGuys Robot
+WISENutbot
+Wonderbot
+Woobot
+Wotbox
 wprecon
-
-# wordpress vuln scanner
-# https://wpscan.org/
+Wprecon
 wpscan
-
-# ZGrab scanner (Mozilla/5.0 zgrab/0.x)
-# https://zmap.io
+WPScan
+WWW-Collector-E
+WWW-Mechanize
+WWW::Mechanize
+WWWOFFLE
+x09Mozilla
+x22Mozilla
+Xaldon WebSpider
+Xaldon_WebSpider
+Xenu
+xpymep1.exe
+YoudaoBot
+Zade
+Zauba
+zauba.io
+Zermelo
+Zeus
 zgrab
-
+Zitebot
 zmeu
+ZmEu
+ZoomBot
+ZoominfoBot
+ZumBot
+ZyBorg
